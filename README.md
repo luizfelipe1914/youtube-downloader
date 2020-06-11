@@ -12,3 +12,8 @@ Script que facilita a utilização da ferramenta youtube-dl
 
 * youtube-dl
 * ffmpeg
+
+
+
+
+
